@@ -7,11 +7,11 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
-  ['5492266466080', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['5492266613038', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['56964787183', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true], 
+  ['1(213)5296661/enable restrict', 'The MawuizBot-TT', true],
+  ['525637215030/enable restrict', 'Mauricio', true],
+  ['524428783389/enable restrict', 'Stuart Xv', true], 
   ['593968585383'],
-  ['59895551199'], //bot
+  ['59895551199', //bot
   ['56977774738']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -97,7 +97,7 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'Toma tu sticker'
-global.author = 'The LoliBot-MD'
+global.author = 'The MawuizBot-TT'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
